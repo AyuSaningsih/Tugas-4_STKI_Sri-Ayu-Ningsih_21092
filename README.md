@@ -1,1 +1,2 @@
-# Tugas-4_STKI_Sri-Ayu-Ningsih_21092
+# Tugas-4 Sistem Temu Kembali Inforasi
+# Sri-Ayu-Ningsih_E1E121092
